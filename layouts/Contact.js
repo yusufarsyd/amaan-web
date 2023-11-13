@@ -52,7 +52,7 @@ const Contact = ({ data }) => {
                 />
               </div>
               <button type="submit" className="btn btn-primary">
-                Send Now
+                Kirim Pesan
               </button>
             </form>
           </div>
