@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Amaan",
+    "title": "Amaan - Solusi Keamanan Digital Bisnis Anda",
     "base_url": "/",
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
@@ -24,13 +24,13 @@
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Pionir dalam menyediakan layanan teknologi Data center, kami mendedikasikan diri untuk memberikan solusi yang aman bagi data Anda.",
-    "copyright": "Copyright © 2023 Amaan Tech. All rights reserved."
+    "footer_content": "Pionir layanan teknologi Data center, kami mendedikasikan diri untuk memberikan solusi yang aman bagi data Anda.",
+    "copyright": "Copyright © 2023 Amaan Tech. All rights reserved. <br> PT SIRIP BIRU TEKNOLOGI"
   },
 
   "metadata": {
     "meta_author": "PT SIRIP BIRU TEKNOLOGI",
     "meta_image": "",
-    "meta_description": "A SAAS template for nextjs"
+    "meta_description": "PT SIRIP BIRU TEKNOLOGI"
   }
 }
