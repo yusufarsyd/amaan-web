@@ -1,0 +1,123 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "Produk",
+      "url": "#"
+    },
+    
+    {
+      "name": "Layanan",
+      "url": "#"
+    },
+
+    {
+      "name": "Harga",
+      "url": "#"
+    },
+
+    {
+      "name": "Kontak Kami",
+      "url": "/contact"
+    }
+
+
+        
+  
+
+
+  ],
+  "footer": [
+
+    {
+      "name": "Produk",
+      "menu": [
+        {
+          "text": "Hybrid Cloud Computing",
+          "url": "#"
+        },
+        {
+          "text": "Network Cyber Security",
+          "url": "#"
+        },
+        {
+          "text": "Network Devices",
+          "url": "#"
+        },
+        {
+          "text": "Fire Alarm System",
+          "url": "#"
+        },
+        {
+          "text": "Physical Security System",
+          "url": "#"
+        },
+        {
+          "text": "Power Management",
+          "url": "#"
+        },{
+          "text": "Rack & Accessories",
+          "url": "#"
+        },{
+          "text": "Monitoring System",
+          "url": "#"
+        },{
+          "text": "Precision Cooling",
+          "url": "#"
+        }
+
+      ]
+    },
+    {
+      "name": "Layanan",
+      "menu": [
+        {
+          "text": "Implementation Support",
+          "url": "#"
+        },
+        {
+          "text": "Service Level Agreement",
+          "url": "#"
+        },
+        {
+          "text": "Maintenance Services",
+          "url": "#"
+        },
+        {
+          "text": "Harga",
+          "url": "#"
+        }
+      ]
+    },
+    {
+      "name": "Perusahaan",
+      "menu": [
+        {
+          "text": "Tentang Amaan",
+          "url": "#"
+        },
+        {
+          "text": "Hubungi Kami",
+          "url": "/contact"
+        },
+        {
+          "text": "Pusat Bantuan",
+          "url": "#"
+        },
+        {
+          "text": "Kebijakan & Privasi",
+          "url": "#"
+        },
+        {
+          "text": "Syarat & Ketentuan",
+          "url": "#"
+        }
+      ]
+    }
+
+
+  ]
+}

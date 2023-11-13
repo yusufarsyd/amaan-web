@@ -1,0 +1,36 @@
+{
+  "site": {
+    "title": "Amaan",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "48",
+    "logo_text": "Amaan"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "blog_folder": "blogs"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Hubungi kami",
+    "link": "/contact"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "Pionir dalam menyediakan layanan teknologi Data center, kami mendedikasikan diri untuk memberikan solusi yang aman bagi data Anda.",
+    "copyright": "Copyright © 2023 Amaan Tech. All rights reserved."
+  },
+
+  "metadata": {
+    "meta_author": "PT SIRIP BIRU TEKNOLOGI",
+    "meta_image": "",
+    "meta_description": "A SAAS template for nextjs"
+  }
+}
