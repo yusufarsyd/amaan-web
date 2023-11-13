@@ -9,13 +9,13 @@ Untuk menjalankan proyek ini secara lokal, pastikan Anda telah menginstal Node.j
 1. Clone repositori ini ke sistem lokal Anda:
 
    ```bash
-   git clone https://github.com/username/amaan-tech-website.git
+   git clone https://github.com/username/amaan-web.git
    ```
 
 2. Pindah ke direktori proyek:
 
    ```bash
-   cd amaan-tech-website
+   cd amaan-web
    ```
 
 3. Instal dependencies:
